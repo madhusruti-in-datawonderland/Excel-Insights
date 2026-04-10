@@ -56,3 +56,6 @@ The dashboard enables decision-makers to quickly:
 • KPI Dashboard Design
 • Slicers for interactive filtering
 • Data Analysis & Insight Extraction
+
+📊 DASHBOARD PREVIEW :-
+<img width="1199" height="636" alt="Screenshot 2026-04-08 222323" src="https://github.com/user-attachments/assets/d108fc86-9bea-4fa0-a077-14337c6d4094" />
