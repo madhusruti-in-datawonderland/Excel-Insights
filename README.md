@@ -1,9 +1,11 @@
 🚀 I’m excited to share my first-ever Excel mini project!
 This project focuses on building an interactive dashboard to analyze Amazon sales data and generate meaningful business insights.
 
-## DATASET USED :- https://github.com/madhusruti-in-datawonderland/Excel-Insights/blob/main/Mini%20Project%203%20Dataset.xlsx
+📎 DATASET USED :- https://github.com/madhusruti-in-datawonderland/Excel-Insights/blob/main/Mini%20Project%203%20Dataset.xlsx
 
-## GUIDELINES FOR THE PROJECT :- https://github.com/madhusruti-in-datawonderland/Excel-Insights/blob/main/Mini%20Project%203.docx
+📎 GUIDELINES FOR THE PROJECT :- https://github.com/madhusruti-in-datawonderland/Excel-Insights/blob/main/Mini%20Project%203.docx
+
+📎 THE PROJECT :- https://github.com/madhusruti-in-datawonderland/Excel-Insights/blob/main/Excel%20Mini%20Project%203%20-%20MADHUSRUTI%20DAS.xlsx
 
 📌 PROJECT NAME :- Amazon Workforce & Sales Intelligence Dashboard
 
